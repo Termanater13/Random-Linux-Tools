@@ -1,7 +1,7 @@
-# Random-linux-Tools
-This Repo has no purpus other then holding random shell scritps i make for what ever reson
+# Random-Linux-Tools
+This Repo has no purpose other than holding random shell scripts I make for whatever reason
 # termOutputTest.sh
-Used to test varius terminal text atributes to see what works and what does not. This file tests the following attribute changes, Some known values that are not tested state so if listed.
+Used to test various terminal text attributes to see what works and what does not. This file tests the following attribute changes, some known values that are not tested state so if listed.
 
 num | Function 
 --- | ---
@@ -14,7 +14,7 @@ num | Function
 6|Add Rapid Blink
 7|Add Reverse (swap FG and BG colors)
 8|Add Hidden
-9|Add Strikethough
+9|Add Strikethrough
 10|Switch to Default Font
 11|Switch to Alt Font 1
 12|Switch to Alt Font 2
@@ -25,10 +25,10 @@ num | Function
 17|Switch to Alt Font 7
 18|Switch to Alt Font 8
 19|Switch to Alt Font 9
-39|Switch to Default FG color(not tested in code)
-49|Switch to default BG color(not tested in code)
-38|Color Select FG color for 88/256 modes(not tested in code)
-48|Color Select BG color for 88/256 modes(not tested in code)
+39|Switch to Default FG color (not tested in code)
+49|Switch to default BG color (not tested in code)
+38|Color Select FG color for 88/256 modes (not tested in code)
+48|Color Select BG color for 88/256 modes (not tested in code)
 
 Color Table for 8/16 color modes
 
